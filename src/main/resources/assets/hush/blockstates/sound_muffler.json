@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "enabled=true": {
+      "model": "hush:block/sound_muffler"
+    },
+    "enabled=false": {
+      "model": "hush:block/sound_muffler_off"
+    }
+  }
+}

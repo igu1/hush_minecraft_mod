@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "W": "minecraft:white_wool",
+    "C": "minecraft:copper_ingot"
+  },
+  "pattern": [
+    "WWW",
+    "WCW",
+    "WWW"
+  ],
+  "result": {
+    "count": 1,
+    "id": "hush:sound_muffler"
+  }
+}

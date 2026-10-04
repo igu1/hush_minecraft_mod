@@ -1,0 +1,27 @@
+{
+  "name": "Hush",
+  "slug": "hush",
+  "modId": "hush",
+  "version": "1.0.0+26.1.2",
+  "summary": "Turn down the noise: a configurable sound muffler that quiets unwanted ambient and mob sounds without muting the game.",
+  "tagline": "Quiet, on your terms.",
+  "categories": [
+    "Cosmetic",
+    "Utility & QoL"
+  ],
+  "gameVersion": "26.1.2",
+  "modLoader": "NeoForge",
+  "neoforgeVersion": "26.1.2.108",
+  "javaVersion": 25,
+  "license": "All Rights Reserved",
+  "authors": [
+    "Love, Cheese By Ez"
+  ],
+  "side": "Client",
+  "repo": "https://github.com/igu1/hush_minecraft_mod",
+  "issueTracker": "https://github.com/igu1/hush_minecraft_mod/issues",
+  "logo": "logo.png",
+  "releaseType": "alpha",
+  "artifact": null,
+  "status": "In development"
+}

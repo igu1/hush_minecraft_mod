@@ -1,0 +1,23 @@
+{
+  "block.hush.sound_muffler": "Sound Muffler",
+  "itemGroup.hush": "Hush",
+  "hush.muffler.enabled": "Sound Muffler active",
+  "hush.muffler.disabled": "Sound Muffler silenced",
+  "hush.configuration.title": "Hush Settings",
+  "hush.configuration.section.hush.common.toml": "Hush (Common)",
+  "hush.configuration.section.hush.common.toml.title": "Hush Settings",
+  "hush.configuration.general": "General",
+  "hush.configuration.general.button": "General",
+  "hush.configuration.general.enabled": "Enable Hush",
+  "hush.configuration.general.enabled.tooltip": "Enable Hush",
+  "hush.configuration.general.tooltip": "Master switch for Hush",
+  "hush.configuration.muffler": "Sound Muffler",
+  "hush.configuration.muffler.button": "Sound Muffler",
+  "hush.configuration.muffler.enabled": "Enable Sound Mufflers",
+  "hush.configuration.muffler.enabled.tooltip": "Silence sounds near placed Sound Muffler blocks",
+  "hush.configuration.muffler.radius": "Silencing Radius",
+  "hush.configuration.muffler.radius.tooltip": "Radius in blocks in which a Sound Muffler silences sounds",
+  "hush.configuration.muffler.muted_categories": "Muted Sound Categories",
+  "hush.configuration.muffler.muted_categories.tooltip": "Sound categories a muffler silences (block, hostile, neutral, ambient, player, weather, ...)",
+  "hush.configuration.muffler.tooltip": "Block that quiets nearby sounds"
+}

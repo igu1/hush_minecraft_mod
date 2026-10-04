@@ -1,0 +1,7206 @@
+{
+  "credit": "Made with Blockbench",
+  "texture_size": [
+    64,
+    64
+  ],
+  "textures": {
+    "0": "hush:block/sound_muffler_atlas_off",
+    "particle": "hush:block/sound_muffler_atlas_off"
+  },
+  "elements": [
+    {
+      "name": "acoustic housing",
+      "from": [
+        1,
+        1,
+        1
+      ],
+      "to": [
+        15,
+        15,
+        15
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          8,
+          0
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "copper base",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        16,
+        2,
+        16
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          8,
+          0
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "copper cap",
+      "from": [
+        0,
+        14,
+        0
+      ],
+      "to": [
+        16,
+        16,
+        16
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          8,
+          0
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "corner guard",
+      "from": [
+        0,
+        2,
+        0
+      ],
+      "to": [
+        2,
+        14,
+        2
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          8,
+          0
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "corner guard",
+      "from": [
+        0,
+        2,
+        14
+      ],
+      "to": [
+        2,
+        14,
+        16
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          8,
+          0
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "corner guard",
+      "from": [
+        14,
+        2,
+        0
+      ],
+      "to": [
+        16,
+        14,
+        2
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          8,
+          0
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "corner guard",
+      "from": [
+        14,
+        2,
+        14
+      ],
+      "to": [
+        16,
+        14,
+        16
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          8,
+          0
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "recessed backing",
+      "from": [
+        2,
+        3,
+        0.5
+      ],
+      "to": [
+        14,
+        13,
+        1
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          8,
+          0
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "absorber fin",
+      "from": [
+        3,
+        4,
+        0.1
+      ],
+      "to": [
+        4,
+        12,
+        0.8
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          8,
+          0
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "absorber fin",
+      "from": [
+        5,
+        4,
+        0.1
+      ],
+      "to": [
+        6,
+        12,
+        0.8
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          8,
+          0
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "absorber fin",
+      "from": [
+        7,
+        4,
+        0.1
+      ],
+      "to": [
+        8,
+        12,
+        0.8
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          8,
+          0
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "absorber fin",
+      "from": [
+        9,
+        4,
+        0.1
+      ],
+      "to": [
+        10,
+        12,
+        0.8
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          8,
+          0
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "absorber fin",
+      "from": [
+        11,
+        4,
+        0.1
+      ],
+      "to": [
+        12,
+        12,
+        0.8
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          8,
+          0
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "absorber fin",
+      "from": [
+        13,
+        4,
+        0.1
+      ],
+      "to": [
+        14,
+        12,
+        0.8
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          8,
+          0
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "recessed backing",
+      "from": [
+        2,
+        3,
+        15
+      ],
+      "to": [
+        14,
+        13,
+        15.5
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          8,
+          0
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "absorber fin",
+      "from": [
+        3,
+        4,
+        15.4
+      ],
+      "to": [
+        4,
+        12,
+        15.9
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          8,
+          0
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "absorber fin",
+      "from": [
+        5,
+        4,
+        15.4
+      ],
+      "to": [
+        6,
+        12,
+        15.9
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          8,
+          0
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "absorber fin",
+      "from": [
+        7,
+        4,
+        15.4
+      ],
+      "to": [
+        8,
+        12,
+        15.9
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          8,
+          0
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "absorber fin",
+      "from": [
+        9,
+        4,
+        15.4
+      ],
+      "to": [
+        10,
+        12,
+        15.9
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          8,
+          0
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "absorber fin",
+      "from": [
+        11,
+        4,
+        15.4
+      ],
+      "to": [
+        12,
+        12,
+        15.9
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          8,
+          0
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "absorber fin",
+      "from": [
+        13,
+        4,
+        15.4
+      ],
+      "to": [
+        14,
+        12,
+        15.9
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          8,
+          0
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "side backing",
+      "from": [
+        0.5,
+        3,
+        2
+      ],
+      "to": [
+        1,
+        13,
+        14
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          8,
+          0
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "side absorber fin",
+      "from": [
+        0.1,
+        4,
+        3
+      ],
+      "to": [
+        0.8,
+        12,
+        4
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          8,
+          0
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "side absorber fin",
+      "from": [
+        0.1,
+        4,
+        5
+      ],
+      "to": [
+        0.8,
+        12,
+        6
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          8,
+          0
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "side absorber fin",
+      "from": [
+        0.1,
+        4,
+        7
+      ],
+      "to": [
+        0.8,
+        12,
+        8
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          8,
+          0
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "side absorber fin",
+      "from": [
+        0.1,
+        4,
+        9
+      ],
+      "to": [
+        0.8,
+        12,
+        10
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          8,
+          0
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "side absorber fin",
+      "from": [
+        0.1,
+        4,
+        11
+      ],
+      "to": [
+        0.8,
+        12,
+        12
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          8,
+          0
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "side absorber fin",
+      "from": [
+        0.1,
+        4,
+        13
+      ],
+      "to": [
+        0.8,
+        12,
+        14
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          8,
+          0
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "side backing",
+      "from": [
+        15,
+        3,
+        2
+      ],
+      "to": [
+        15.5,
+        13,
+        14
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          8,
+          0
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "side absorber fin",
+      "from": [
+        15.4,
+        4,
+        3
+      ],
+      "to": [
+        15.9,
+        12,
+        4
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          8,
+          0
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "side absorber fin",
+      "from": [
+        15.4,
+        4,
+        5
+      ],
+      "to": [
+        15.9,
+        12,
+        6
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          8,
+          0
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "side absorber fin",
+      "from": [
+        15.4,
+        4,
+        7
+      ],
+      "to": [
+        15.9,
+        12,
+        8
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          8,
+          0
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "side absorber fin",
+      "from": [
+        15.4,
+        4,
+        9
+      ],
+      "to": [
+        15.9,
+        12,
+        10
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          8,
+          0
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "side absorber fin",
+      "from": [
+        15.4,
+        4,
+        11
+      ],
+      "to": [
+        15.9,
+        12,
+        12
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          8,
+          0
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "side absorber fin",
+      "from": [
+        15.4,
+        4,
+        13
+      ],
+      "to": [
+        15.9,
+        12,
+        14
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          8,
+          0
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "mute badge",
+      "from": [
+        5,
+        5,
+        -0.25
+      ],
+      "to": [
+        11,
+        11,
+        0.25
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          8,
+          0
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            8,
+            4,
+            12,
+            8
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            8,
+            4,
+            12,
+            8
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            8,
+            4,
+            12,
+            8
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            8,
+            4,
+            12,
+            8
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            8,
+            4,
+            12,
+            8
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            8,
+            4,
+            12,
+            8
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "speaker stem",
+      "from": [
+        6,
+        7,
+        -0.5
+      ],
+      "to": [
+        7,
+        9,
+        -0.25
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          8,
+          0
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "speaker cone",
+      "from": [
+        7,
+        6.5,
+        -0.5
+      ],
+      "to": [
+        8.5,
+        9.5,
+        -0.25
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          8,
+          0
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "mute slash",
+      "from": [
+        7.5,
+        4.5,
+        -0.75
+      ],
+      "to": [
+        8.25,
+        11.5,
+        -0.5
+      ],
+      "rotation": {
+        "angle": -45,
+        "axis": "z",
+        "origin": [
+          8,
+          8,
+          0
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            12,
+            4,
+            16,
+            8
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            12,
+            4,
+            16,
+            8
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            12,
+            4,
+            16,
+            8
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            12,
+            4,
+            16,
+            8
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            12,
+            4,
+            16,
+            8
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            12,
+            4,
+            16,
+            8
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "active indicator",
+      "from": [
+        11.5,
+        2.6,
+        -0.2
+      ],
+      "to": [
+        13.5,
+        3.6,
+        0.15
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          8,
+          0
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            4,
+            4,
+            8
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            0,
+            4,
+            4,
+            8
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            0,
+            4,
+            4,
+            8
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            0,
+            4,
+            4,
+            8
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            0,
+            4,
+            4,
+            8
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            0,
+            4,
+            4,
+            8
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "cap rivet",
+      "from": [
+        2.5,
+        16,
+        2.5
+      ],
+      "to": [
+        3.5,
+        16.2,
+        3.5
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          8,
+          0
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "cap rivet",
+      "from": [
+        2.5,
+        16,
+        12.5
+      ],
+      "to": [
+        3.5,
+        16.2,
+        13.5
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          8,
+          0
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "cap rivet",
+      "from": [
+        12.5,
+        16,
+        2.5
+      ],
+      "to": [
+        13.5,
+        16.2,
+        3.5
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          8,
+          0
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "cap rivet",
+      "from": [
+        12.5,
+        16,
+        12.5
+      ],
+      "to": [
+        13.5,
+        16.2,
+        13.5
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          8,
+          0
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "top absorber",
+      "from": [
+        3,
+        16,
+        4
+      ],
+      "to": [
+        13,
+        16.1,
+        12
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          8,
+          0
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "top foam rib",
+      "from": [
+        4,
+        16.1,
+        4
+      ],
+      "to": [
+        4.75,
+        16.5,
+        12
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          8,
+          0
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "top foam rib",
+      "from": [
+        6,
+        16.1,
+        4
+      ],
+      "to": [
+        6.75,
+        16.5,
+        12
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          8,
+          0
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "top foam rib",
+      "from": [
+        8,
+        16.1,
+        4
+      ],
+      "to": [
+        8.75,
+        16.5,
+        12
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          8,
+          0
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "top foam rib",
+      "from": [
+        10,
+        16.1,
+        4
+      ],
+      "to": [
+        10.75,
+        16.5,
+        12
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          8,
+          0
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "top foam rib",
+      "from": [
+        12,
+        16.1,
+        4
+      ],
+      "to": [
+        12.75,
+        16.5,
+        12
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          8,
+          0
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "front frame screw",
+      "from": [
+        0.65,
+        3,
+        -0.15
+      ],
+      "to": [
+        1.45,
+        3.8,
+        0.1
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "screw slot",
+      "from": [
+        0.8,
+        3.32,
+        -0.21
+      ],
+      "to": [
+        1.3,
+        3.46,
+        -0.15
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "rear frame screw",
+      "from": [
+        0.65,
+        3,
+        15.9
+      ],
+      "to": [
+        1.45,
+        3.8,
+        16.15
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "front frame screw",
+      "from": [
+        0.65,
+        12,
+        -0.15
+      ],
+      "to": [
+        1.45,
+        12.8,
+        0.1
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "screw slot",
+      "from": [
+        0.8,
+        12.32,
+        -0.21
+      ],
+      "to": [
+        1.3,
+        12.46,
+        -0.15
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "rear frame screw",
+      "from": [
+        0.65,
+        12,
+        15.9
+      ],
+      "to": [
+        1.45,
+        12.8,
+        16.15
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "front frame screw",
+      "from": [
+        14.55,
+        3,
+        -0.15
+      ],
+      "to": [
+        15.35,
+        3.8,
+        0.1
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "screw slot",
+      "from": [
+        14.7,
+        3.32,
+        -0.21
+      ],
+      "to": [
+        15.2,
+        3.46,
+        -0.15
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "rear frame screw",
+      "from": [
+        14.55,
+        3,
+        15.9
+      ],
+      "to": [
+        15.35,
+        3.8,
+        16.15
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "front frame screw",
+      "from": [
+        14.55,
+        12,
+        -0.15
+      ],
+      "to": [
+        15.35,
+        12.8,
+        0.1
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "screw slot",
+      "from": [
+        14.7,
+        12.32,
+        -0.21
+      ],
+      "to": [
+        15.2,
+        12.46,
+        -0.15
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "rear frame screw",
+      "from": [
+        14.55,
+        12,
+        15.9
+      ],
+      "to": [
+        15.35,
+        12.8,
+        16.15
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "front protective grille rail",
+      "from": [
+        2.25,
+        4.5,
+        -0.05
+      ],
+      "to": [
+        13.75,
+        4.85,
+        0.2
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "rear protective grille rail",
+      "from": [
+        2.25,
+        4.5,
+        15.8
+      ],
+      "to": [
+        13.75,
+        4.85,
+        16.05
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "left grille rail",
+      "from": [
+        -0.05,
+        4.5,
+        2.25
+      ],
+      "to": [
+        0.2,
+        4.85,
+        13.75
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "right grille rail",
+      "from": [
+        15.8,
+        4.5,
+        2.25
+      ],
+      "to": [
+        16.05,
+        4.85,
+        13.75
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "front protective grille rail",
+      "from": [
+        2.25,
+        11.5,
+        -0.05
+      ],
+      "to": [
+        13.75,
+        11.85,
+        0.2
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "rear protective grille rail",
+      "from": [
+        2.25,
+        11.5,
+        15.8
+      ],
+      "to": [
+        13.75,
+        11.85,
+        16.05
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "left grille rail",
+      "from": [
+        -0.05,
+        11.5,
+        2.25
+      ],
+      "to": [
+        0.2,
+        11.85,
+        13.75
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "right grille rail",
+      "from": [
+        15.8,
+        11.5,
+        2.25
+      ],
+      "to": [
+        16.05,
+        11.85,
+        13.75
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "radius dial socket",
+      "from": [
+        2.5,
+        2.3,
+        -0.2
+      ],
+      "to": [
+        5,
+        3.8,
+        0.1
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "radius adjustment knob",
+      "from": [
+        3,
+        2.55,
+        -0.55
+      ],
+      "to": [
+        4.5,
+        3.55,
+        -0.2
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "dial index mark",
+      "from": [
+        3.65,
+        3,
+        -0.65
+      ],
+      "to": [
+        3.85,
+        3.55,
+        -0.55
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            12,
+            4,
+            16,
+            8
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            12,
+            4,
+            16,
+            8
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            12,
+            4,
+            16,
+            8
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            12,
+            4,
+            16,
+            8
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            12,
+            4,
+            16,
+            8
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            12,
+            4,
+            16,
+            8
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "indicator bezel",
+      "from": [
+        11.2,
+        2.35,
+        -0.3
+      ],
+      "to": [
+        13.8,
+        3.85,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            8,
+            4,
+            12,
+            8
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            8,
+            4,
+            12,
+            8
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            8,
+            4,
+            12,
+            8
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            8,
+            4,
+            12,
+            8
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            8,
+            4,
+            12,
+            8
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            8,
+            4,
+            12,
+            8
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "raised indicator lens",
+      "from": [
+        11.5,
+        2.6,
+        -0.45
+      ],
+      "to": [
+        13.5,
+        3.6,
+        -0.3
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            4,
+            4,
+            8
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            0,
+            4,
+            4,
+            8
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            0,
+            4,
+            4,
+            8
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            0,
+            4,
+            4,
+            8
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            0,
+            4,
+            4,
+            8
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            0,
+            4,
+            4,
+            8
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "rear service plate",
+      "from": [
+        5,
+        6,
+        15.9
+      ],
+      "to": [
+        11,
+        10.5,
+        16.2
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "service plate screw",
+      "from": [
+        5.35,
+        6.35,
+        16.2
+      ],
+      "to": [
+        5.85,
+        6.85,
+        16.35
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "service plate screw",
+      "from": [
+        5.35,
+        9.65,
+        16.2
+      ],
+      "to": [
+        5.85,
+        10.15,
+        16.35
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "service plate screw",
+      "from": [
+        10.15,
+        6.35,
+        16.2
+      ],
+      "to": [
+        10.65,
+        6.85,
+        16.35
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "service plate screw",
+      "from": [
+        10.15,
+        9.65,
+        16.2
+      ],
+      "to": [
+        10.65,
+        10.15,
+        16.35
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "service cooling slot",
+      "from": [
+        6.2,
+        7,
+        16.2
+      ],
+      "to": [
+        9.8,
+        7.22,
+        16.3
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "service cooling slot",
+      "from": [
+        6.2,
+        7.75,
+        16.2
+      ],
+      "to": [
+        9.8,
+        7.97,
+        16.3
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "service cooling slot",
+      "from": [
+        6.2,
+        8.5,
+        16.2
+      ],
+      "to": [
+        9.8,
+        8.72,
+        16.3
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "service cooling slot",
+      "from": [
+        6.2,
+        9.25,
+        16.2
+      ],
+      "to": [
+        9.8,
+        9.47,
+        16.3
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "rear cable socket",
+      "from": [
+        6.5,
+        2.5,
+        16
+      ],
+      "to": [
+        9.5,
+        4.25,
+        16.35
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            8,
+            4,
+            12,
+            8
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            8,
+            4,
+            12,
+            8
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            8,
+            4,
+            12,
+            8
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            8,
+            4,
+            12,
+            8
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            8,
+            4,
+            12,
+            8
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            8,
+            4,
+            12,
+            8
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "cable socket recess",
+      "from": [
+        7,
+        2.85,
+        16.35
+      ],
+      "to": [
+        9,
+        3.9,
+        16.4
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "socket terminal",
+      "from": [
+        7.65,
+        3.1,
+        16.4
+      ],
+      "to": [
+        8.35,
+        3.65,
+        16.5
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "rubber isolation foot",
+      "from": [
+        0.5,
+        -0.35,
+        0.5
+      ],
+      "to": [
+        2.5,
+        0,
+        2.5
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "rubber isolation foot",
+      "from": [
+        0.5,
+        -0.35,
+        13.5
+      ],
+      "to": [
+        2.5,
+        0,
+        15.5
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "rubber isolation foot",
+      "from": [
+        13.5,
+        -0.35,
+        0.5
+      ],
+      "to": [
+        15.5,
+        0,
+        2.5
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "rubber isolation foot",
+      "from": [
+        13.5,
+        -0.35,
+        13.5
+      ],
+      "to": [
+        15.5,
+        0,
+        15.5
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "top mounting strip",
+      "from": [
+        4,
+        16,
+        2.5
+      ],
+      "to": [
+        12,
+        16.25,
+        3.05
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            8,
+            4,
+            12,
+            8
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            8,
+            4,
+            12,
+            8
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            8,
+            4,
+            12,
+            8
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            8,
+            4,
+            12,
+            8
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            8,
+            4,
+            12,
+            8
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            8,
+            4,
+            12,
+            8
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "top strip fastener",
+      "from": [
+        4.5,
+        16.25,
+        2.5
+      ],
+      "to": [
+        5.1,
+        16.4,
+        3.05
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "top strip fastener",
+      "from": [
+        10.8,
+        16.25,
+        2.5
+      ],
+      "to": [
+        11.4,
+        16.4,
+        3.05
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "top mounting strip",
+      "from": [
+        4,
+        16,
+        12.5
+      ],
+      "to": [
+        12,
+        16.25,
+        13.05
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            8,
+            4,
+            12,
+            8
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            8,
+            4,
+            12,
+            8
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            8,
+            4,
+            12,
+            8
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            8,
+            4,
+            12,
+            8
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            8,
+            4,
+            12,
+            8
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            8,
+            4,
+            12,
+            8
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "top strip fastener",
+      "from": [
+        4.5,
+        16.25,
+        12.5
+      ],
+      "to": [
+        5.1,
+        16.4,
+        13.05
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "top strip fastener",
+      "from": [
+        10.8,
+        16.25,
+        12.5
+      ],
+      "to": [
+        11.4,
+        16.4,
+        13.05
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            4,
+            4,
+            8,
+            8
+          ],
+          "texture": "#0"
+        }
+      }
+    }
+  ],
+  "display": {
+    "gui": {
+      "rotation": [
+        30,
+        225,
+        0
+      ],
+      "scale": [
+        0.6,
+        0.6,
+        0.6
+      ]
+    },
+    "ground": {
+      "translation": [
+        0,
+        3,
+        0
+      ],
+      "scale": [
+        0.25,
+        0.25,
+        0.25
+      ]
+    },
+    "fixed": {
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "thirdperson_righthand": {
+      "rotation": [
+        75,
+        45,
+        0
+      ],
+      "translation": [
+        0,
+        2.5,
+        0
+      ],
+      "scale": [
+        0.375,
+        0.375,
+        0.375
+      ]
+    }
+  }
+}

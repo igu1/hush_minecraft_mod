@@ -1,0 +1,1 @@
+Turn down the noise: a configurable sound muffler that quiets unwanted ambient and mob sounds without muting the game.
